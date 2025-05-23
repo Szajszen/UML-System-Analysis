@@ -26,3 +26,7 @@ with the goal of practicing system modeling skills.
 - 🗃️ System vision document outlining business goals and pain points  
 - 🧩 Use case scenarios with preconditions and postconditions  
 - 🛠️ Business context of a small production-oriented company
+
+  The repository contains:
+- PDF documentation (system vision, use case models)
+- UML diagrams (in `.jpg`, `.png`)
