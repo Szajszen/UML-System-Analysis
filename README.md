@@ -27,6 +27,6 @@ with the goal of practicing system modeling skills.
 - 🧩 Use case scenarios with preconditions and postconditions  
 - 🛠️ Business context of a small production-oriented company
 
-  The repository contains:
+## The repository contains:
 - PDF documentation (system vision, use case models)
 - UML diagrams (in `.jpg`, `.png`)
